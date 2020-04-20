@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { Center } from "../../global-styles";
 
 export const Container = styled.section`
   padding: 20px 0;

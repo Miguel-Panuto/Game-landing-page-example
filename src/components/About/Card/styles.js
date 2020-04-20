@@ -6,7 +6,8 @@ export const Container = styled.div`
   flex: ${props => props.flex};
   box-shadow: 2px 2px 4px #1112;
   .title-container {
-    display: flex;   
+    display: flex;
+    height: 100px;   
   }
   .title-container > .img-container { 
     flex: 1;
