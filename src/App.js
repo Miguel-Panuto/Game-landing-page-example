@@ -3,6 +3,7 @@ import GlobalStyles from './global-styles';
 import Header from './components/Header';
 import Apr from './components/Apr';
 import Depoiments from './components/Depoiments';
+import About from './components/About';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Apr />
       <Depoiments />
+      <About />
     </>
   );
 }

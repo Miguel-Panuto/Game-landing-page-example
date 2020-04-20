@@ -20,7 +20,7 @@ export default createGlobalStyle`
 `;
 
 export const Center = styled.div`
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 2%;
 `;
