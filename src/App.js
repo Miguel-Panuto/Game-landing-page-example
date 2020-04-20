@@ -1,9 +1,9 @@
-import React from 'react';
-import GlobalStyles from './global-styles';
-import Header from './components/Header';
-import Apr from './components/Apr';
-import Depoiments from './components/Depoiments';
-import About from './components/About';
+import React from "react";
+import GlobalStyles, { Center } from "./global-styles";
+import Header from "./components/Header";
+import Apr from "./components/Apr";
+import Depoiments from "./components/Depoiments";
+import About from "./components/About";
 
 function App() {
   return (
@@ -13,6 +13,12 @@ function App() {
       <Apr />
       <Depoiments />
       <About />
+      <footer>
+        <Center>
+          <p>All rights reserved to</p>
+          <p>Miguel Panuto</p>
+        </Center>
+      </footer>
     </>
   );
 }

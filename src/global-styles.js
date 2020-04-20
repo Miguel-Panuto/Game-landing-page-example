@@ -17,10 +17,16 @@ export default createGlobalStyle`
         font-family: 'Roboto', sans-serif;
         -webkit-font-smoothing: antialiased !important;
     }
+
+    footer {
+      margin: 20px 0;
+      text-align: center;
+      color: #555;
+    }
 `;
 
 export const Center = styled.div`
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 0 2%;
 `;
