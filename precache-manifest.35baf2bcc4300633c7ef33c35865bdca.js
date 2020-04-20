@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "623a7a55ed095f0be9bd166ea7e6afca",
+    "revision": "c74d7f79794205b573a688fd8945f20a",
     "url": "/game-landing-page-example/index.html"
   },
   {
-    "revision": "8425dfa83d7d4e72a5e3",
-    "url": "/game-landing-page-example/static/js/2.8056dc62.chunk.js"
+    "revision": "27507e8f8d344952d85d",
+    "url": "/game-landing-page-example/static/js/2.21e4436e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/game-landing-page-example/static/js/2.8056dc62.chunk.js.LICENSE.txt"
+    "url": "/game-landing-page-example/static/js/2.21e4436e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89f25a395ee1f821e49f",
-    "url": "/game-landing-page-example/static/js/main.574d2b8f.chunk.js"
+    "revision": "102613fc3e6b42d1af8a",
+    "url": "/game-landing-page-example/static/js/main.7aac5437.chunk.js"
   },
   {
-    "revision": "fbd7b4a387399babdf48",
-    "url": "/game-landing-page-example/static/js/runtime-main.7c12502e.js"
+    "revision": "fb7c0b35c77c7e0b7b34",
+    "url": "/game-landing-page-example/static/js/runtime-main.5ce7fde8.js"
   },
   {
     "revision": "03311ef719c17bd35912e8d4b916f175",
