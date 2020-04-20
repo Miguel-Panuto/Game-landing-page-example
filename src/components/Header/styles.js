@@ -26,4 +26,15 @@ export const Menu = styled.div`
         font-size: 18px;
         padding: 8px 30px;
     }
+
+    @media screen and (max-width: 410px){
+        width: 100%;
+        a {
+            font-size: 12px;
+        }
+        a.btn-cta {
+            font-size: 13px;
+            padding: 8px 10px;
+        }
+    }
 `;
